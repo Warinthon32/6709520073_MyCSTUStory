@@ -82,3 +82,10 @@ img{
   height: auto;
   border-radius: 10px;
 }
+
+nav a:hover {
+  background-color: rgb(15, 14, 14); 
+  color: white; 
+  border-radius: 5px; 
+  padding: 5px; 
+}
