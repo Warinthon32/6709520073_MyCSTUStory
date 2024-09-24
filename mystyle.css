@@ -34,6 +34,14 @@ nav a {
   display: flex;
   flex-wrap: wrap;
   padding: 20px;
+  
+
+}
+
+.containerforexlain {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
 
 }
 
@@ -88,4 +96,8 @@ nav a:hover {
   color: white; 
   border-radius: 5px; 
   padding: 5px; 
+}
+
+.myjourney{
+  text-align: center;
 }
