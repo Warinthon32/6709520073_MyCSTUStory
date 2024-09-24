@@ -30,11 +30,19 @@ nav a {
   padding: 20px;
 }
 
+.containerformedia {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+
+}
+
 .main {
   flex: 3;
   padding: 20px;
   background: #f4f4f4;
   margin: 10px;
+
 }
 
 .sidebar {
@@ -42,6 +50,15 @@ nav a {
   padding: 20px;
   background: #ddd;
   margin: 10px;
+
+}
+
+.mediabox {
+  flex: 1;
+  padding: 20px;
+  background: #ddd;
+  margin: 10px;
+  border-radius: 20px;
 }
 
 footer {
@@ -52,4 +69,16 @@ footer {
   position: fixed;
   width: 100%;
   bottom: 0;
+}
+ 
+video{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+
+}
+img{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
 }
