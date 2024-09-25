@@ -104,3 +104,13 @@ nav a:hover {
 h3{
   text-align: center;
 }
+h4 a:hover {
+  background-color: rgb(15, 14, 14); 
+  color: white; 
+  border-radius: 5px; 
+  padding: 5px; 
+}
+a{
+  color: #333;
+  text-decoration: none;
+}
