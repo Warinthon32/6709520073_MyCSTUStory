@@ -50,6 +50,7 @@ nav a {
   padding: 20px;
   background: #f4f4f4;
   margin: 10px;
+  min-width: 150px;
 
 }
 
